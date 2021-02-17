@@ -13,5 +13,16 @@
     </head>
     <body>
         <h1>Login</h1>
+        
+        <form method = "get" action = "login">
+            <label>Username:</label>
+            <input type="text" value ="">
+            <br>
+            <label>Password:</label>
+            <input type ="text" value ="">
+            <br>
+            <input type ="submit" value = "Log in">
+                
+        </form>
     </body>
 </html>
