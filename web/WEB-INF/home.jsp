@@ -16,6 +16,6 @@
         
         <p>Hello ${username}.</p>
         <br>
-        <a href ="">Log out</a>
+        <a href ="login?logout=true">Log out</a>
     </body>
 </html>
